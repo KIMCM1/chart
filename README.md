@@ -106,3 +106,4 @@
 ### 호스팅 주소
 > [github.io](https://kimcm1.github.io/chart/1109)   
 
+[netlify](https://chartplotlyhighchart.netlify.app/)
