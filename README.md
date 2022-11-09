@@ -6,7 +6,7 @@
 >[plotly](https://www.w3schools.com/js/js_graphics_plotly.asp)
 
  * chart.js 를 이용한   e-sports 시청자 규모 분석 (년도별)*
- <img src="./chart.js.png" width="400px" height="300px" title="px(픽셀) 크기 설정" alt="chart"></img>
+ ...<img src="./chart.js.png" width="400px" height="300px" title="px(픽셀) 크기 설정" alt="chart"></img>
  <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
       
       var xValues = [2012, 2014, 2015, 2016, 2017, 2019];
@@ -29,10 +29,10 @@
               yAxes: [{ticks: {min: 0, max:1200}}],
             }
           }
-        }); 
+        }); ...
 
  * highchart를 이용한 시청 연령대*  
- <img src="./highchart.png" width="400px" height="300px" title="px(픽셀) 크기 설정" alt="highchart"></img>
+ ...<img src="./highchart.png" width="400px" height="300px" title="px(픽셀) 크기 설정" alt="highchart"></img>
   <figure class="highcharts-figure">
             <div id="container"></div>
             <p class="highcharts-description">
@@ -93,7 +93,7 @@
       y: 8
     }]
   }]
-}); 
+}); ...
  
  * plotly 를 이용한 수익구조*   
 <img src="./plotly.png" width="400px" height="300px" title="px(픽셀) 크기 설정" alt="plotly"></img>
